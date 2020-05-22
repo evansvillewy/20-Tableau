@@ -33,6 +33,6 @@ Analyze station start/end volume for 2019.
 14. Gender Story
 
 ![2019 Gender Conmparison](Images/2019_gender.JPG)
-![Year over Year Comparison](Images/year_over_year_gender.JPB)
-![Gender Ratio Map](Images/gender_ratio.JPG)
+![Year over Year Comparison](Images/year_over_year_gender.JPG)
+![Gender Ratio Map](Images/map_ratio.JPG)
 
