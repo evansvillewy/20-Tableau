@@ -40,6 +40,8 @@ Analyze station start/end volume for 2019.
 13. 2019 Top 10 Stations Dashboard
 14. Gender Story
 
+Data files not included in repository due to large file size.
+
 ![2019 Gender Conmparison](Images/2019_gender.JPG)
 ![Year over Year Comparison](Images/year_over_year_gender.JPG)
 ![Gender Ratio Map](Images/map_ratio.JPG)
