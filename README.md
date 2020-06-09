@@ -15,6 +15,14 @@ Analyze station start/end volume for 2019.
   * Males riders account for most Citibike riders
   * The gender gap in ridership has not improved over the life of the program. 
 
+### Technologies
+
+1. **Python**
+2. **Excel**
+3. **Pandas**
+4. **Tableau**
+
+
 # Table of Contents
 
 1. 2019 Rides by Month & Gender
